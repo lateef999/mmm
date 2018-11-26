@@ -240,14 +240,14 @@ Pickaxe_NonBuyer_16,Pickaxe,5,60,12,80,50,55,1200,false,true
 Pickaxe_NonBuyer_17,Pickaxe,3,36,7,80,55,60,1200,false,true
 Pickaxe_NonBuyer_18,Pickaxe,5,60,12,80,60,,1200,false,true
 ,,,,,,,,,,
-Plank_Spender_1,Plank,100,200,300,400,300,100,1400,true,true
-Plank_Spender_2,Plank,100,200,300,400,300,100,1400,true,true
-Plank_Spender_3,Plank,100,200,300,400,300,100,1400,true,true
-Plank_Spender_4,Plank,100,200,300,400,300,100,1400,true,true
-Plank_Spender_5,Plank,100,200,300,400,300,100,1400,true,true
-Plank_Spender_6,Plank,100,200,300,400,300,100,1400,true,true
-Plank_Spender_7,Plank,100,200,300,400,300,100,1400,true,true
-Plank_Spender_8,Plank,100,200,300,400,300,100,1400,true,true
+Plank_Spender_1,Plank,100,200,300,400,300,100,1200,true,true
+Plank_Spender_2,Plank,100,200,300,400,300,100,1200,true,true
+Plank_Spender_3,Plank,100,200,300,400,300,100,1200,true,true
+Plank_Spender_4,Plank,100,200,300,400,300,100,1200,true,true
+Plank_Spender_5,Plank,100,200,300,400,300,100,1200,true,true
+Plank_Spender_6,Plank,100,200,300,400,300,100,1200,true,true
+Plank_Spender_7,Plank,100,200,300,400,300,100,1200,true,true
+Plank_Spender_8,Plank,100,200,300,400,300,100,1200,true,true
 ,,,,,,,,,,
 Nail_Spender_1,Nail,3,24,18,25,20,30,1200,true,true
 Nail_Spender_2,Nail,4,32,22,30,20,30,1200,true,true
@@ -276,14 +276,14 @@ Screw_Spender_6,Screw,3,24,17,30,40,50,1200,true,true
 Screw_Spender_7,Screw,5,40,28,30,50,,1200,true,true
 Screw_Spender_8,Screw,5,40,26,35,50,,1200,true,true
 ,,,,,,,,,,
-DuctTape_Spender_1,Duct Tape,1,2,1,2,1,1,11,true,true
-DuctTape_Spender_2,Duct Tape,1,2,1,2,1,1,11,true,true
-DuctTape_Spender_3,Duct Tape,1,2,1,2,1,1,11,true,true
-DuctTape_Spender_4,Duct Tape,1,2,1,2,1,1,11,true,true
-DuctTape_Spender_5,Duct Tape,1,2,1,2,1,1,11,true,true
-DuctTape_Spender_6,Duct Tape,1,2,1,2,1,1,11,true,true
-DuctTape_Spender_7,Duct Tape,1,2,1,2,1,1,11,true,true
-DuctTape_Spender_8,Duct Tape,1,2,1,2,1,1,11,true,true
+DuctTape_Spender_1,Duct Tape,1,2,1,2,1,1,1200,true,true
+DuctTape_Spender_2,Duct Tape,1,2,1,2,1,1,1200,true,true
+DuctTape_Spender_3,Duct Tape,1,2,1,2,1,1,1200,true,true
+DuctTape_Spender_4,Duct Tape,1,2,1,2,1,1,1200,true,true
+DuctTape_Spender_5,Duct Tape,1,2,1,2,1,1,1200,true,true
+DuctTape_Spender_6,Duct Tape,1,2,1,2,1,1,1200,true,true
+DuctTape_Spender_7,Duct Tape,1,2,1,2,1,1,1200,true,true
+DuctTape_Spender_8,Duct Tape,1,2,1,2,1,1,1200,true,true
 ,,,,,,,,,,
 WoodPanel_Spender_1,Wood Panel,3,24,18,25,20,30,1200,true,true
 WoodPanel_Spender_2,Wood Panel,4,32,22,30,20,30,1200,true,true
